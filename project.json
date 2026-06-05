@@ -1,0 +1,27 @@
+{
+  "overview": "Beauty N Joy is a premium beauty parlour website with a luxurious, elegant, feminine design. Features all key sections including services showcase, gallery, pricing, testimonials, FAQ, and contact — built with a soft pink, gold, and nude color palette.",
+  "features": [
+    "Sticky navigation with mobile hamburger menu and Book Appointment CTA",
+    "Full-height hero section with luxury salon imagery and animations",
+    "Services grid with 8 animated service cards",
+    "Gallery with 10 images, hover effects, and lightbox popup",
+    "Pricing cards for Basic, Premium, and Bridal packages",
+    "Testimonials carousel with auto-scroll and star ratings",
+    "FAQ accordion with smooth animations",
+    "Contact form with Google Map embed and WhatsApp integration",
+    "Scroll-to-top button and sticky WhatsApp floating button",
+    "Animated section reveals on scroll"
+  ],
+  "category": "business",
+  "tags": [
+    "beauty",
+    "salon",
+    "parlour",
+    "bridal",
+    "makeup",
+    "responsive",
+    "luxury",
+    "premium"
+  ],
+  "last_updated": "2026-05-11T07:29:33.801Z"
+}
